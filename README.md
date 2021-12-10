@@ -1,8 +1,8 @@
 # Silent-Hill-2-Enhanced-Edition-Windows-Fix
-0.Go to Control Panel>Programs>Programs and Features>Turn Windows Features on or off>Legacy Components>Enable Direct Play .NET 3.5 Framework support
-1.Install DirectX 9 Runtime from MS on Windows 11 it is not included:
+0. Go to Control Panel>Programs>Programs and Features>Turn Windows Features on or off>Legacy Components>Enable Direct Play .NET 3.5 Framework support
+1. Install DirectX 9 Runtime from MS on Windows 11 it is not included:
 * https://www.microsoft.com/en-us/download/details.aspx?id=8109
-2.Download Silent Hill 2 Director's Cut From Google Drive:
+2. Download Silent Hill 2 Director's Cut From Google Drive:
 * https://drive.google.com/drive/folders/1rn73wmRt_dGKv7W0c86rWbTisid5x-Q9?usp=sharing
 # Or Myabandonware:
 * https://www.myabandonware.com/game/silent-hill-2-restless-dreams-bgd
