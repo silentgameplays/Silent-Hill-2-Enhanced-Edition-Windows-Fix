@@ -6,7 +6,7 @@
 * https://drive.google.com/drive/folders/1rn73wmRt_dGKv7W0c86rWbTisid5x-Q9?usp=sharing
 # Or Myabandonware:
 * https://www.myabandonware.com/game/silent-hill-2-restless-dreams-bgd
-3.Install using a disc image mounter in Windows or CDEMu provided here.
+3. Install using a disc image mounter in Windows.
 4. During installation when prompted to install DirectX 8 choose no.
 5. Go to the Silent Hill Enhanced Edition Project Website and follow instructions there:
 * http://www.enhanced.townofsilenthill.com/SH2/
