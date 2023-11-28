@@ -9,7 +9,7 @@
 4. During installation when prompted to install DirectX 8 choose no.
 5. Go to the Silent Hill Enhanced Edition Project Website and follow instructions there:
 * http://www.enhanced.townofsilenthill.com/SH2/
-# Alternative Fix Use the optimized ThirteenAG Widescreen for your Silent Hill 2 installation.
+# Alternative Fix Use the optimized ThirteenAG Widescreen with modified exe for your Silent Hill 2 installation.
 
 # Huge credit goes to the creators of the SH2 Enhanced Edition project so it is now possible to run SH2 in full glory on modern Windows 10/11 and Linux OS's
 # silentgamepls
